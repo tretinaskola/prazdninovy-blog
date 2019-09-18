@@ -7,6 +7,10 @@ div.menu{
     display: block;
     font-family: 'Francois One', sans-serif;
     z-index: 999;
+    text-transform: uppercase;
+    -webkit-box-shadow: -4px 12px 53px -21px rgba(0,0,0,0.75);
+    -moz-box-shadow: -4px 12px 53px -21px rgba(0,0,0,0.75);
+    box-shadow: -4px 12px 53px -21px rgba(0,0,0,0.75);
 }
 
 .mobilemenu {
@@ -15,6 +19,7 @@ div.menu{
 
 .active{
     font-weight: bold;
+    border-bottom: 2px solid #276d75;
 }
 
 div.menu__links{
@@ -106,7 +111,7 @@ div.menu__media{
   background-color: #276d75;
   position: fixed;
 	z-index: 999;
-	width: 100%;
+    width: 100%;
 }
 
 .mobilemenu #myLinks {
@@ -119,7 +124,7 @@ div.menu__media{
   text-decoration: none;
   font-size: 17px;
   display: block;
-  height:45px;
+  height:48px;
 }
 
 .mobilemenu a.icon {
