@@ -17,7 +17,7 @@ h1.main__title{
 }
 
 div.hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/hero.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/paradise.jpg");
   height: 60%;
   background-position: center;
   background-repeat: no-repeat;
@@ -32,7 +32,7 @@ div.hero-text {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-	font-family: 'Roboto', sans-serif;
+font-family: 'Pacifico', cursive;
 }
 
 div.main__text{
@@ -59,11 +59,6 @@ div.main__text h2{
     width:100%;
     padding: 0 20px;
 	}
-}
-
-.column img{
-	height: 1000px;
-	padding: 50px;
 }
 
 /* Clear floats after the columns */
