@@ -16,6 +16,10 @@ h1.main__title{
     margin: 0 auto;
 }
 
+.column p{
+  padding-bottom: 15px;
+}
+
 div.hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/paradise.jpg");
   height: 60%;
