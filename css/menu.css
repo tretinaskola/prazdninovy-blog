@@ -80,6 +80,10 @@ div.menu__media{
     width: 10%;
 }
 
+.menu__media a:hover{
+    filter: invert(37%) sepia(10%) saturate(2331%) hue-rotate(138deg) brightness(94%) contrast(91%);
+}
+
 .menu__media a{
     padding: 0 5px;
     color: black;
