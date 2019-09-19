@@ -90,6 +90,11 @@ div.menu__media{
     height: 15px;
 }
 
+.menu__media span{
+    position: relative;
+    top: 1px;
+}
+
 .menu__media a:hover{
     color: #276d75;
 }

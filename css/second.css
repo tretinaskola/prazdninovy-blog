@@ -1,0 +1,16 @@
+.second__text{
+    font-size: 20px;
+    width:75%; 
+    margin: 0 auto;
+    font-family: 'Rubik', sans-serif;
+}
+
+.second__text h1{
+    font-size: 40px;
+    font-family: 'Saira Stencil One', cursive;
+    padding: 40px 0 20px 0;
+}
+
+.second__text p{
+    padding-top: 20px;
+}
